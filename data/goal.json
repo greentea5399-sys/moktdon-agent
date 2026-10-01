@@ -1,0 +1,11 @@
+{
+  "item": "맥북 프로 14",
+  "price": 3000000,
+  "target_month": "2027-12",
+  "monthly_deposit": 300000,
+  "emergency_target": 900000,
+  "assumed_annual_rates": {
+    "short_term": 0.03,
+    "long_term": 0.06
+  }
+}

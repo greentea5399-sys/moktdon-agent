@@ -1,0 +1,5 @@
+{
+  "emergency": 800000,
+  "short_term": 640000,
+  "long_term": 360000
+}

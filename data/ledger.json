@@ -1,0 +1,19 @@
+{
+  "records": [
+    {"date": "2026-09-01", "kind": "income", "category": "용돈", "amount": 300000, "memo": "9월 용돈"},
+    {"date": "2026-09-01", "kind": "save_emergency", "category": "저축", "amount": 100000, "memo": "9월 배분"},
+    {"date": "2026-09-01", "kind": "save_short", "category": "저축", "amount": 140000, "memo": "9월 배분"},
+    {"date": "2026-09-01", "kind": "save_long", "category": "저축", "amount": 60000, "memo": "9월 배분"},
+    {"date": "2026-09-03", "kind": "expense", "category": "통신", "amount": 55000, "memo": "휴대폰 요금"},
+    {"date": "2026-09-05", "kind": "expense", "category": "식비", "amount": 128000, "memo": "장보기·외식"},
+    {"date": "2026-09-08", "kind": "expense", "category": "교통", "amount": 50000, "memo": "교통카드 충전"},
+    {"date": "2026-09-12", "kind": "expense", "category": "카페", "amount": 32000, "memo": "시험기간 카페"},
+    {"date": "2026-09-15", "kind": "expense", "category": "문화", "amount": 13500, "memo": "OTT 구독"},
+    {"date": "2026-09-20", "kind": "expense", "category": "쇼핑", "amount": 89000, "memo": "가을 옷"},
+    {"date": "2026-09-25", "kind": "income", "category": "아르바이트", "amount": 420000, "memo": "편의점 알바"},
+    {"date": "2026-10-01", "kind": "income", "category": "용돈", "amount": 300000, "memo": "10월 용돈"},
+    {"date": "2026-10-01", "kind": "income", "category": "아르바이트", "amount": 450000, "memo": "편의점 알바"},
+    {"date": "2026-10-01", "kind": "expense", "category": "통신", "amount": 55000, "memo": "휴대폰 요금"},
+    {"date": "2026-10-01", "kind": "expense", "category": "식비", "amount": 8500, "memo": "점심"}
+  ]
+}
